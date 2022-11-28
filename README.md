@@ -1,4 +1,4 @@
-# MechaCar Statistical Analysis Using R
+# MechaCar Analysis Using R
 
 ## Objective
 
